@@ -18,9 +18,7 @@
 
 ## Installation
 
-1. Install Python 3.x from the official [Python website](https://www.python.org/).
-2. Install FFmpeg by following the instructions on the [FFmpeg website](https://ffmpeg.org/download.html).
-3. Clone this repository:
+* Clone this repository:
     ```sh
     git clone https://github.com/yourusername/multicast-scanner.git
     cd multicast-scanner
